@@ -1,4 +1,4 @@
-## Overview ##
+Overview 
 This framework is implemented based on the article "Classification-Reconstruction Learning for Open-Set Recognition," which is attached to this repository. The CROSR framework is designed to train and evaluate a network for open-set recognition tasks.
 Setup and Usage
 Training
